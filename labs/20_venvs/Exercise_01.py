@@ -1,5 +1,5 @@
 '''
-In your CodingNomads folder create a new folder. In side of that folder:
+In your CodingNomads folder create a new folder. Inside of that folder:
 
 1. Create a new virtual environment
 2. Activate the virtual environment
