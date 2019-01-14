@@ -1,10 +1,10 @@
 '''
-Build on the previouse exercise.
+Build on the previous exercise.
 
 Create subclasses of two of the existing classes. Create a subclass of
 one of those so that the hierarchy is at least three levels.
 
-Build these classes out like we did in 10_03_freeform_classes.
+Build these classes out like we did in the previous exercise.
 
 If you cannot think of a way to build on your previous exercise,
 you can start from scratch here.
