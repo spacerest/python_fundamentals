@@ -1,5 +1,5 @@
 '''
 
-From the previous example, move your calculation of how many seconds in a year to a python executable script.
+Calculate how many seconds in a year as a python executable script.
 
 '''
