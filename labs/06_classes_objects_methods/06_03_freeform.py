@@ -8,8 +8,8 @@
 - Create a print method in each class that prints out the attributes
     in a nicely formatted string.
 - Include a __str__ method in each class.
-- Overload the + operator in one of the classes
-    so that it adds two attributes of that class.
+- Overload the __add__ method in one of the classes so that it's possible
+    to add attributes of two instances of that class using the + operator.
 - Once the objects are created, change some of the attribute values.
 
 Be creative. Have some fun. :)
