@@ -1,6 +1,6 @@
 '''
-Using list comprehension, create a list that contains the individual letters using
-the word "CodingNomads".
+Using list comprehension, create a list that contains the individual
+letters using the word "CodingNomads".
 
 For example:
 
